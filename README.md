@@ -3,4 +3,9 @@
 ---
 ![img](https://figshare.com/ndownloader/files/53343797)
 ---
-![img](https://figshare.com/ndownloader/files/53344592)
+<img 
+  src="https://figshare.com/ndownloader/files/53344592" 
+  width="50%" 
+  height="50%"
+  alt="Resized Image"
+>
